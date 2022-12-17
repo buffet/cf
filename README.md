@@ -12,3 +12,8 @@ For the best experience:
 ```
 $ cf.py | fx
 ```
+
+## License
+
+Duel licensed under MIT and Apache-2.0.
+Choose whichever you prefer.
